@@ -1471,7 +1471,6 @@ strong {
 
 .j_submit_content > p {
   display: none;
-  display: flex;
   background-color: transparent;
   color: #fff;
   font-weight: 800;
